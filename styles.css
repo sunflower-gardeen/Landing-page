@@ -136,7 +136,7 @@ body {
         display: flex;
         flex-direction: column;
         background-color: #E5E7EB;
-        padding: 100px;
+        padding: 50px;
         justify-content: center;
         align-items: center;
         text-align: center;
@@ -160,7 +160,7 @@ body {
         padding: 20px;
         background-color: #3882F6;
         border-radius: 10px;
-        margin: 70px;
+        margin: 50px;
         gap: 20px;
         justify-content: center;
         align-items: center;
